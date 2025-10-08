@@ -5,4 +5,4 @@
 🧠 Currently learning: Selenium | Postman | TestNG | Jira  
 🌱 I love ensuring software quality and user satisfaction  
 💬 Ask me about: Bug reporting, QA tools, and software testing concepts  
-📫 Reach me: [LinkedIn](www.linkedin.com/in/yeamin-hossain-fuhad) | [Email](yeaminhossainfuhad@gmail.com)
+📫 Reach me: [LinkedIn Profile](https://www.linkedin.com/in/yeamin-hossain-fuhad) | [Email](yeaminhossainfuhad@gmail.com)
