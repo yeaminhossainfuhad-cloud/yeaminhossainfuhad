@@ -1,4 +1,4 @@
-# # Hi there, I'm Yeamin 👋  
+# # Hi there, I'm Yeamin Hossain Fuhad 👋  
 
 🎯 **Aspiring Software Tester & QA Engineer**  
 💡 Exploring Manual & Automation Testing  
